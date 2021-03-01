@@ -1,4 +1,4 @@
-# The goal of this project is to replicate hangman using python
+# The goal of this project is to replicate hangman using python 
 # A sample file is provided that should help with printing the hangman in the terminal
 
 def terminal(misses):
@@ -12,5 +12,4 @@ def terminal(misses):
 
 
 if __name__ == "__main__":
-    for val in range(12):
-        terminal(val)
+    terminal(12)
