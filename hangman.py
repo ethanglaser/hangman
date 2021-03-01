@@ -1,5 +1,5 @@
 # The goal of this project is to replicate hangman using python
-# A sample file is provided that should help with printing the hangman in the terminal
+# A sample file is provided that should help with printing the hangman in the terminals
 
 def terminal(misses):
     initial = ["   ____________", "   | /         ", "   |/          ", "   |           ", "   |           ", "   |           ", "   |           ", "   |           ", "   |           ", "   |           ", "   |           ", "___|__________"]
